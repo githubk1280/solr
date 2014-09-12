@@ -1,0 +1,3 @@
+tomcat install
+http://wiki.apache.org/solr/SolrTomcat
+
